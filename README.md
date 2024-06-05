@@ -7,12 +7,11 @@ The players would see Dodo improve in their ability to fly for longer and longer
 
 
 ### Gameplay Features:
-**Random map generation:**
 
+**Random map generation:**
 The map is generated endlessly with random combinations and layouts each time the player plays. This encourages replayability and engages the player for longer. The map also contains rarer segments among the generated segments which make the game more fun to play. Eg. In one of the segments the items/power ups are doubled and in another there are no items high up, but the ground is covered in many springs.
 
 **Stamina:**
-
 The game features a stamina bar, which depletes when the player chooses to move, additionally each time the player moves there is a cool down on the regeneration of the stamina bar. This adds a form of interesting choice to the game as players must decide what they spend their stamina on and how they play.
 A cool down is also added to the stamina bar each time the player touches the ground, this adds another element to the game for players to consider because if they stop moving while on the ground the game ends. Players can negate this by picking up the bubble item, which stops them from touching the ground, giving them a bit of extra time for the cool down to reset. 
 
