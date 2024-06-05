@@ -1,6 +1,8 @@
 # Dodo Fly!
 
-This game concept is based on the flash game Flight of the Hamsters from 2008, mixed in with inspiration taken from other games such as Angry Birds and Learn to Fly. Although there are no story elements currently present in the game, the game concept was formed on the idea that Dodo’s can’t fly. As such the main character of the game (Dodo) would experiment with unconventional methods of flight to finally achieve flight! The story could contain other characters such as an AI (TweetGPT) teacher/guide and other birds/animals which could appear to help or hinder the main character. The players would see Dodo improve in their ability to fly for longer and longer distances as they play through the game. While discovering/unlocking new abilities and learning the more advanced mechanics in the process.
+This game concept is based on the flash game Flight of the Hamsters from 2008, with inspiration taken from other games such as Angry Birds and Learn to Fly. I have fond memories of playing these games from my childhood, so I've developed this simple concept as inspiration.  
+
+The game concept is formed on the idea that Dodo’s can’t fly. As such the main character of the game (Dodo) would experiment with unconventional methods (rockets, springs, etc..) of flight to finally achieve flight! The story could contain other characters such as an AI (TweetGPT) teacher/guide and other birds/animals which could appear to help or hinder the main character. The players would see Dodo improve in their ability to fly for longer and longer distances as they play through the game. While discovering/unlocking new abilities and learning the more advanced mechanics in the process.*
 
 ## Gameplay Features:
 
