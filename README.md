@@ -11,12 +11,11 @@ _Thank you for playing! :)_
 
 </br>
 <p align="center">
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/4b3baca1-8d50-4de9-a171-389157c5b991" width="450" />
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/8d98fc2c-00b3-4f62-814c-13fb438a1aa0" width="450" /> 
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/6b48724f-d522-4f90-8cd9-e5a73a2e00f7" width="450" />
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/b557d730-4105-48db-a789-06d396c31357" width="450" />
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/4b3baca1-8d50-4de9-a171-389157c5b991" width="350" />
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/8d98fc2c-00b3-4f62-814c-13fb438a1aa0" width="350" /> 
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/6b48724f-d522-4f90-8cd9-e5a73a2e00f7" width="350" />
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/b557d730-4105-48db-a789-06d396c31357" width="350" />
 </p>
-</br>
 
 # About the Game
 
