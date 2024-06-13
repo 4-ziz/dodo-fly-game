@@ -9,6 +9,14 @@
 
 _Thank you for playing! :)_
 
+<p align="left">
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/4b3baca1-8d50-4de9-a171-389157c5b991" width="450" />
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/8d98fc2c-00b3-4f62-814c-13fb438a1aa0" width="450" /> 
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/6b48724f-d522-4f90-8cd9-e5a73a2e00f7" width="450" />
+  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/b557d730-4105-48db-a789-06d396c31357" width="450" />
+</p>
+</br>
+
 </br>
 
 # About the Game
@@ -16,14 +24,6 @@ _Thank you for playing! :)_
 This game concept is based on the flash game Flight of the Hamsters from 2008, with inspiration taken from other games such as Angry Birds and Learn to Fly. I have fond memories of playing these games from my childhood, so I've developed this simple concept as inspiration.
 
 The game concept is formed on the idea that Dodo’s can’t fly. As such the main character of the game (Dodo) would experiment with unconventional methods (rockets, springs, etc..) of flight to finally achieve flight! The story could contain other characters such as an AI (TweetGPT) teacher/guide and other birds/animals which could appear to help or hinder the main character. The players would see Dodo improve in their ability to fly for longer and longer distances as they play through the game. While discovering/unlocking new abilities and learning the more advanced mechanics in the process.*
-
-<p align="center">
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/4b3baca1-8d50-4de9-a171-389157c5b991" width="500" />
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/8d98fc2c-00b3-4f62-814c-13fb438a1aa0" width="500" /> 
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/6b48724f-d522-4f90-8cd9-e5a73a2e00f7" width="500" />
-  <img src="https://github.com/4-ziz/dodo-fly-game/assets/54356947/b557d730-4105-48db-a789-06d396c31357" width="500" />
-</p>
-</br>
 
 # Gameplay Features
 
