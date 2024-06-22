@@ -23,7 +23,7 @@ This game concept is based on the flash game Flight of the Hamsters from 2008, w
 
 The game concept is formed on the idea that Dodo’s can’t fly. As such the main character of the game (Dodo) would experiment with unconventional methods (rockets, springs, etc..) of flight to finally achieve flight! The story could contain other characters such as an AI (TweetGPT) teacher/guide and other birds/animals which could appear to help or hinder the main character. The players would see Dodo improve in their ability to fly for longer and longer distances as they play through the game. While discovering/unlocking new abilities and learning the more advanced mechanics in the process.
 
-# Gameplay Features
+# Notable Gameplay Features
 
 - **Random map generation:**
 The map is generated endlessly with random combinations and layouts each time the player plays. This encourages replayability and engages the player for longer. The map also contains rarer segments among the generated segments which make the game more fun to play. Eg. In one of the segments the items/power ups are doubled and in another there are no items high up, but the ground is covered in many springs.
